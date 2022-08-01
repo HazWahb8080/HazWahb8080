@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Hazem and my ultimate plan is to drive vespa across europe 🛵🛵!
+I am Hazem and my lifetime plan is to ride a vespa across europe 🛵🛵!
 
 <!--
 **HazWahb8080/HazWahb8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
