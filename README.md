@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am Hazem and my lifetime plan is to ride a vespa across europe 🛵🛵!
-
+I am Hazem and i left med school to pursue my passion in tech. and yeah, still fighting with my family :). 
 <!--
 **HazWahb8080/HazWahb8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
